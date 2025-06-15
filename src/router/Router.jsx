@@ -10,22 +10,21 @@ import AdminRegister from "../pages/admin/AdminRegister";
 import AdminLogin from "../pages/admin/AdminLogin";
 
 import NewInstructor from "../pages/admin/NewInstructor";
-import InstructorList from "../pages/admin/instructorList.jsx";
-import InstructorDetails from "../pages/admin/InstructorDetails.jsx";
+import InstructorList from "../pages/admin/instructorList";
+import InstructorDetails from "../pages/admin/InstructorDetails";
 
-import NewStudent from "../pages/admin/NewStudent.jsx";
-import StudentList from "../pages/admin/StudentList.jsx";
-import StudentDetails from "../pages/admin/StudentDetails.jsx"; 
+import NewStudent from "../pages/admin/NewStudent";
+import StudentList from "../pages/admin/StudentList";
+import StudentDetails from "../pages/admin/StudentDetails"; 
 
 // instructor
-import InstructorLogin from "../pages/instructor/InstructorLogin.jsx";
-import CreatePost from "../pages/student/CreatePost.jsx";
-// import { SiTrueup } from "react-icons/si";
-import MyPosts from "../pages/student/MyPosts.jsx";
-import AdminPosts from "../pages/admin/AdminPosts.jsx";
-import InstructorHome from "../pages/instructor/InstructorHome.jsx";
-import MyStudent from "../pages/instructor/MyStudent.jsx";
-import Main from "../pages/Main.jsx";
+import InstructorLogin from "../pages/instructor/InstructorLogin";
+import CreatePost from "../pages/student/CreatePost";
+import MyPosts from "../pages/student/MyPosts";
+import AdminPosts from "../pages/admin/AdminPosts";
+import InstructorHome from "../pages/instructor/InstructorHome";
+import MyStudent from "../pages/instructor/MyStudent";
+import Main from "../pages/Main";
 
 function Layout() {
   return (
