@@ -10,7 +10,7 @@ import AdminRegister from "../pages/admin/AdminRegister";
 import AdminLogin from "../pages/admin/AdminLogin";
 
 import NewInstructor from "../pages/admin/NewInstructor";
-import InstructorList from "../pages/admin/instructorList";
+import InstructorList from "../pages/admin/InstructorList";
 import InstructorDetails from "../pages/admin/InstructorDetails";
 
 import NewStudent from "../pages/admin/NewStudent";
